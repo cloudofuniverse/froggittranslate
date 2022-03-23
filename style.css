@@ -1,0 +1,36 @@
+html {
+    background-color: black;
+}
+
+.trad-box {
+    display: inline-block;
+    padding: 15px;
+    margin-top: 40px;
+    margin-right: 10px;
+    border-spacing: 15px;
+}
+
+div {
+    display: inline;
+}
+
+img {
+    width: 15%;
+    margin-left: 15px;
+}
+
+h1 {
+    color: antiquewhite;
+    font-size: 30px;
+    margin-left: 15px;
+}
+
+input {
+    width: 300px;
+    height: 300px;
+}
+
+button {
+    margin-left: 15px;
+}
+
